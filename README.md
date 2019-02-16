@@ -1,6 +1,5 @@
 
-
-thenewguy200/.43971.jpg
+<img src=".43971.jpg">
       
 
 
