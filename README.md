@@ -1,4 +1,4 @@
-<H1><center><h1 style="color:red;"> My First <a href="https://www.Starwars.com"> Star Wars </a> Fanpage </center></h1>
+<H1><center><h1 style="color:red;"> My <a href="https://www.Starwars.com"> Star Wars </a> Fanpage </center></h1>
 
 <img src="43971.jpg">
 
@@ -7,7 +7,7 @@
   
   <html lang="en">
  <head>
-  <center><h1 style="color:red;"> My First <a href="https://www.Starwars.com"> Star Wars </a> Fanpage 
+  <center><h1 style="color:red;"> My <a href="https://www.Starwars.com"> Star Wars </a> Fanpage 
                                                                                Page 2</h1></center>
   <link rel="stylesheet" href="styles.css">
   </head>
