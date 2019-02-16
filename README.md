@@ -7,7 +7,8 @@
   
   <html lang="en">
  <head>
-  <center><h1 style="color:red;"> My First <a href="https://www.Starwars.com"> Star Wars </a> Fanpage Page 2</h1></center>
+  <center><h1 style="color:red;"> My First <a href="https://www.Starwars.com"> Star Wars </a> Fanpage 
+                                                                               Page 2</h1></center>
   <link rel="stylesheet" href="styles.css">
   </head>
   
