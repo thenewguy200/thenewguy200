@@ -1,4 +1,6 @@
-My first Star wars Fanpage
+<H1><center> My first Star wars Fanpage </center></h1>
+
+
 <img src=".43971.jpg">
       
 
